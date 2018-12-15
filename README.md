@@ -39,7 +39,7 @@ func main() {
 ### Installation
 
 ```bash
-go get github.com/peterhellberg/swapi/cmd/swapi
+go get github.com/ServiceComputingOnCloud/SWAPI/cmd/swapi
 ```
 
 ### Usage
